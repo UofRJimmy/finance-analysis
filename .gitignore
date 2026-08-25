@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/*.sqlite3
+data/ticker_meta.json
+data/edgar/
+data/edgar_cache/
+logs/
+reports/intraday_alerts/
+plan_pages/
+node_modules/
+package.json
+package-lock.json

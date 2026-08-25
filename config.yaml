@@ -1,0 +1,7 @@
+watchlist_file: watchlist.txt
+portfolio_file: portfolio.yaml
+portfolio_text_file: portfolio.txt
+output_language: zh
+report_dir: reports
+tickertick_company_news_interval_seconds: 300
+finnhub_min_request_interval_seconds: 1.1

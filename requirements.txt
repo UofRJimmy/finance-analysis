@@ -1,0 +1,10 @@
+requests
+feedparser
+apscheduler
+rich
+python-dotenv
+pyyaml
+tzdata
+edgartools>=5.37
+pandas
+numpy

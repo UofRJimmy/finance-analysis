@@ -1,0 +1,42 @@
+base_currency: USD
+cash: 0.0
+holdings:
+- symbol: GLD
+  name: GLD
+  asset_type: stock/etf
+  quantity: 13.0
+  average_cost: 443.11
+  manual_market_value: 0.0
+- symbol: INTC
+  name: INTC
+  asset_type: stock/etf
+  quantity: 5.0
+  average_cost: 23.34
+  manual_market_value: 0.0
+- symbol: MSFT
+  name: MSFT
+  asset_type: stock/etf
+  quantity: 29.0
+  average_cost: 410.01
+  manual_market_value: 0.0
+- symbol: NVDA
+  name: NVDA
+  asset_type: stock/etf
+  quantity: 49.0894
+  average_cost: 209.05
+  manual_market_value: 0.0
+- symbol: SMR
+  name: SMR
+  asset_type: stock/etf
+  quantity: 495.0
+  average_cost: 12.0
+  manual_market_value: 0.0
+other_assets:
+- name: 黄金etf
+  asset_type: ETF
+  value: 111785.4
+  liquidity: liquid
+- name: 银行定期
+  asset_type: deposit
+  value: 70000
+  liquidity: illiquid
